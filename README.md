@@ -1,4 +1,4 @@
-# FlipSide
+# Flip Side
 ## Overview
 The game consists of two opposite platforms that are on top of each other. The platforms are parallel to each other and
 are arranged such that the bottom platform is facing up and the upper platform is facing down.
