@@ -45,4 +45,5 @@ screen.
 
 ## How to use
 On desktop, clone the repo and start the application icon named (T18_40_9369_Youssr).
+
 ON Android, clone the repo and connect your android phone into your laptop, then use the .apk file.
